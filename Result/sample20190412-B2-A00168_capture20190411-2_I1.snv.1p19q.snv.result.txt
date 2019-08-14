@@ -1,0 +1,2 @@
+sample	1p	ratio_1p	19q	ratio_19q	IDH1	IDH2
+sample20190412-B2-A00168_capture20190411-2_I1	NO LOH (0/20)	0	partial LOH (4/9)	0.444444444444444	NA	NA
